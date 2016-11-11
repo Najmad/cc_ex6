@@ -1,0 +1,42 @@
+People's birth years can affect their risk of catching certain strains of influenza — probably because their first case of flu somehow sets their immune system, researchers reported Thursday.
+Their findings could be good news for what scientists predict about the risk of a killer flu pandemic, and they could also help researchers find better flu vaccines, the researchers said.
+
+A new study explains why children and young adults are more likely to be infected with H5N1, shown here, while H7N9 disproportionately affects older adults. CYNTHIA GOLDSMITH / UCLA
+"Our work implies that we have never seen a true 'virgin soil' influenza pandemic," the team wrote in their report, published in the journal Science. "Virgin soil" means a population that has no immunity at all to a new infection.
+The teams were looking at the puzzling characteristics of two strains of bird flu that keep popping up in people: the H5N1 and H7N9 avian influenza viruses.
+They've been spilling over into people for years and scaring scientists who see the potential for a pandemic of flu that could kill tens or even hundreds of millions of people. But this hasn't happened yet.
+And, oddly, while H5N1 has hit young people and children especially hard, H7N9 seems to attack older people.
+“"ROUGHLY HALF OF THE PEOPLE ARE QUITE WELL-PROTECTED AGAINST ONE OF THESE POTENTIAL PANDEMIC VIRUSES BUT NOT THE OTHER."”
+H5N1 has infected 856 people since 2003 and killed 452 of them, WHO reports. H7N9 has infected 452 people and killed 124 of them, according to the Center for Infectious Disease Research and Policy at the University of Minnesota.
+The team at the University of Arizona and the University of California Los Angeles dove into the numbers, examining the reports of each case, who was affected and how severely.
+Related: Where has H5N1 Been, Anyway?
+They found an almost startling link with birth year.
+"It's ridiculously predictive," said Michael Worobey, an expert in viral genetics at the University of Arizona.
+Worobey thinks he knows why. Other research suggests that early infections "imprint" the body's immune system. It makes sense — the human immune system makes cells and antibodies that "learn" to recognize and react more quickly to microbial invaders the next time they infect someone.
+Worobey has also found that influenza viruses that commonly infect people can be categorized into two groups. Group 1 consists of subtypes H1, H2, and avian H5, while group 2 includes seasonal H3 and avian H7.
+Related: What's in a Flu Name?
+Influenza A viruses all are named for two proteins found on their surfaces: hemagglutinin (the H in a flu name) and neuraminidase (the N in a flu name). Thus flu strains get names such as H5N1 or H1N1 or H3N2. So human H1N1, H2N2 and the H5N1 bird flu virus are all related in Group 1, while the H3N2 seasonal flu virus is related to the H7N9 bird flu strain.
+Play
+
+		Facebook 
+		Twitter 
+		Google Plus 
+		Embed 
+ Can You Catch Bird Flu? 0:42
+Every few decades, the predominant flu strain changes. So the H1N1 flu strain that killed tens of millions of people in 1918 hung around infecting people until 1957, when a pandemic of H2N2 flu swept the world and took over. Then H2N2 predominated until 1968, when the H3N2 "Hong Kong" flu took over.
+Most recently, the H1N1 "swine flu" caused a minor pandemic in 2009. Now H1N1 and H3N2 both regularly circulate as seasonal flu viruses.
+What Worobey and colleagues found was that people born in 1968 and later are less likely to be made severely ill by H7N9. They believe this is because the first flu strain that would have infected them would have been H3N2, which is in the same group as H7N9.
+Related: Canadian Woman Infected With H7N9 Flu
+And people born before 1968 are less likely to die or be made severely ill by H5N1, because their first flu infection would have been an H1N1 or H2N2 strain.
+"Roughly half of the people are quite well-protected against one of these potential pandemic viruses but not the other," Worobey said.
+"Our findings show clearly that this 'childhood imprinting' gives strong protection against severe infection or death from two major strains of avian influenza," added James Lloyd-Smith, a UCLA professor of evolutionary biology who worked on the study. "These results will help us quantify the risk of particular emerging influenza viruses sparking a major outbreak."
+“"THIS IS REALLY THE FIRST EVIDENCE OUT IN THE REAL WORLD THAT THIS KIND OF CROSS-PROTECTION IS POSSIBLE."”
+"It's imprinting. Not the virus, not the behavior of people, but being exposed to different viruses at an early age," Worobey said.
+Flu strains mutate all the time, which is why people need a fresh flu shot every year. But Worobey and other researchers say there are unchanging, or "conserved" parts of the flu virus on the "stem" of the mushroom-shaped hemagglutinin structure that the human immune system can recognize.
+It obviously does not provide perfect protection, but enough to protect most people with this immune imprinting from the most severe disease, he said.
+"It is an extra barrier that is probably protecting us from even more frequent influenza pandemics," he said.
+More importantly, later flu infections do not seem to alter this mechanism, although this theory needs testing.
+The researchers cannot say whether regular flu vaccination affects this "imprinting" effect. People are now encouraged to get annual flu vaccines starting as infants, and they get a cocktail of vaccines that protect against both the Group 1 H1N1 and Group 2 H3N2 viruses.
+They also cannot say whether peoples' susceptibility to seasonal flu is affected by imprinting. Flu is so very common that it will be hard to say which virus first infected someone and then follow them through life to see which strains make them sicker.
+But it might be possible to use the findings to make better vaccines, Worobey said.
+"This is really the first evidence out in the real world that this kind of cross-protection is possible," Worobey said. 

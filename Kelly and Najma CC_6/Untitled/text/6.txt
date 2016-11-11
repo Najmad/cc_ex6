@@ -1,0 +1,25 @@
+TECH NOV 12 2016, 2:13 PM ET
+Bowing to Pressure, Facebook Backtracks on Racial Profiling in Ads
+by DAKSHAYANI SHANKAR
+		SHARE
+		  
+		  
+		  
+		  
+		  
+		  
+Facebook announced Friday that it would be disabling the controversial "Ethnic Affinity" tool that allowed advertisers to exclude certain ethnic groups from target audiences.
+"We will disable the use of ethnic affinity marketing for ads that we identify as offering housing, employment or credit," wrote Facebook's chief privacy officer, Erin Egan, in a post.
+Facebook said it had worked with civil rights organizations such as the American Civil Liberties Union and would update the language in its advertising policies to make it more explicit that discrimination by advertisers will not be tolerated, Egan said.
+Facebook came under harsh scrutiny on earlier this month after a report emerged that showed the social network was offering advertisers ways of excluding specific races by checking a category it called "Ethnic Affinity." Advertisers could choose to exclude African Americans, Asian Americans and Hispanic Americans on the self-service advertising portal, as investigated by Pro Publica.
+
+Pro Publica created an ad to find out how the self-service ad portal's "Ethnic Affinity" option works Pro Publica / Facebook
+The Congressional Black Caucus immediately reacted and wrote a letter to Facebook Founder, Mark Zuckerberg, "This is in direct violation of the Fair Housing Act of 1968, and it is our strong desire to see Facebook address this issue immediately."
+The Fair Housing Act prohibits the printing and publication of "notices, statements and advertisements" that indicate "discrimination or limitation" to races, and the U.S. Department of Justice increased the maximum violation fine to $150,000 in 2014.
+"To the extent that Facebook has created a filter that enables advertisers who use its platform to exclude users from seeing, reading, or hearing about offers of housing on the basis of race... it is operating in violation of the federal Fair Housing Act," civil rights lawyer John Relman confirmed to NBC News.
+Relman advised Facebook to re-think the tool immediately to avoid lawsuits from potential Facebook users who could realize they were "injured" by the tool.
+However, Facebook denied the illegal practice and said people were misconstruing the meaning of "Ethnic Affinity."
+"For example, some audiences might click on Spanish-language ads for a World Cup sponsorship, versus other audiences that might click more on the same ads in English," a spokesperson said. "So the sponsor might run one campaign in English that excludes the Hispanic affinity group to see how well the campaign performs against running that ad campaign in Spanish. This is a common practice in the industry."
+However, "What makes the exclude feature seem provocative in Facebook's ad options is that there are only options to exclude certain 'ethnic affinities,'" said Niklas Myhr, assistant professor of marketing at Chapman University. "Nowhere can you specifically exclude the Caucasian ethnic affinity," he noted.
+Ultimately, it's the price we pay for handing over our data to Facebook in the first place, suggested Myhr.
+"Some people are still caught by surprise and are upset that Facebook is categorizing you as a potential ad target based on your "likes" or demographic information that you volunteered when signing up — but as long as you don't pay for using Facebook, you basically should consider yourself part of the product that Facebook is selling to advertisers."
